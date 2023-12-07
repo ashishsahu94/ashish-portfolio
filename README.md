@@ -1,2 +1,2 @@
-# Ashish-potfolio
-Ashish-Potfolio website
+# Ashish-Portfolio
+Ashish-Portfolio website
