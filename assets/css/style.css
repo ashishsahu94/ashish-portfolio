@@ -281,12 +281,16 @@ img {
 .banner-right .social-media {
   margin-bottom: 10px;
 }
-.banner-right .social-media a img {
+.banner-right .social-media a {
+  font-size: 26px;
+  display: inline-block;
+}
+.banner-right .social-media a i {
   width: 20px;
   margin: 10px 10px;
   transition: all ease-in-out 0.5s;
 }
-.banner-right .social-media a img:hover {
+.banner-right .social-media a i:hover {
   transform: scale(1.5);
 }
 .banner-right a {
