@@ -31,9 +31,11 @@
   cursor: pointer;
   opacity: 0.4;
   transition: opacity 0.3s ease;
+  filter: blur(2px);
 }
 .swiper-container.nav-slider .swiper-slide.swiper-slide-active {
   opacity: 1;
+  filter: blur(0px);
 }
 .swiper-container.nav-slider .swiper-slide .content {
   width: 100%;
